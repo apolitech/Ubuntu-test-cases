@@ -22,6 +22,8 @@
         <dd>Available options should represent the state of your system accurately</dd>
         <dd>
             <ul>
+                <li>Normal Instalation(Web browser, utilities, office software etc)</li>
+                <li>Minimal installation(Web browser and basic utilities)</li>
                 <li>(If network is available) Download updates while installing FAMILY</li>
                 <li>(If on a 'laptop') Is plugged to a power source</li>
                 <li>Install third-party software ... option available</li>
